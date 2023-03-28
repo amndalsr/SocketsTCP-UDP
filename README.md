@@ -20,12 +20,13 @@
 
 ---
 
-### Sockets com TCP - Execução da classe Servidor:
+### Sockets com UDP - Execução da classe Servidor:
 <div align="center">
-  <img align="center" width="70%"  src="https://user-images.githubusercontent.com/72527935/228387083-9bc3fe15-8650-47d2-8a07-7eb41b50617b.jpg">
+  <img align="center" width="70%"  src="https://user-images.githubusercontent.com/72527935/228387810-8dc61cd4-9751-4c3c-96f1-72f0d5c5947b.jpg">
 </div>
  
  ### Sockets com UDP - Execução da classe Cliente:
 <div align="center">
-  <img align="center" width="70%"  src="https://user-images.githubusercontent.com/72527935/228387094-95d924dd-3458-4162-aa03-2a0dc288d394.jpg">
+  <img align="center" width="70%"  src="https://user-images.githubusercontent.com/72527935/228387827-50594b45-2b31-49e4-b684-522e01631a35.jpg">
 </div>
+
