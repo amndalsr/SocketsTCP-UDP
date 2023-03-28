@@ -8,7 +8,24 @@
 
 *Sockets* são uma forma de comunicação entre processos em redes de computadores. Eles permitem que processos em diferentes computadores se comuniquem por meio de uma rede, transmitindo dados entre si.
 
-
+### Sockets com TCP - Execução da classe Servidor:
 <div align="center">
-  <img align="center" alt="Amanda-selfprofile" width="85%"  src="https://user-images.githubusercontent.com/72527935/224857503-ef45f69c-ca38-40b7-b1b8-b1d07fa1e000.png">
+  <img align="center" width="70%"  src="https://user-images.githubusercontent.com/72527935/228387083-9bc3fe15-8650-47d2-8a07-7eb41b50617b.jpg">
+</div>
+ 
+ ### Sockets com TCP - Execução da classe Cliente:
+<div align="center">
+  <img align="center" width="70%"  src="https://user-images.githubusercontent.com/72527935/228387094-95d924dd-3458-4162-aa03-2a0dc288d394.jpg">
+</div>
+
+---
+
+### Sockets com TCP - Execução da classe Servidor:
+<div align="center">
+  <img align="center" width="70%"  src="https://user-images.githubusercontent.com/72527935/228387083-9bc3fe15-8650-47d2-8a07-7eb41b50617b.jpg">
+</div>
+ 
+ ### Sockets com UDP - Execução da classe Cliente:
+<div align="center">
+  <img align="center" width="70%"  src="https://user-images.githubusercontent.com/72527935/228387094-95d924dd-3458-4162-aa03-2a0dc288d394.jpg">
 </div>
